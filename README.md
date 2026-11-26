@@ -36,8 +36,8 @@ Run `feedback-scout sources` to see which are configured.
 Requires Python 3.10+.
 
 ```bash
-git clone https://github.com/<you>/feedback-scout.git
-cd feedback-scout
+git clone https://github.com/abhilashaagarwala/feedback-agent.git
+cd feedback-agent
 python -m venv .venv && source .venv/bin/activate
 pip install -e .
 cp .env.example .env    # then add your keys
