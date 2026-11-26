@@ -1,0 +1,3 @@
+title,likes,dislikes,date,url,author,rating
+"SAMPLE ROW - format only, not a real review","What the reviewer liked","What the reviewer disliked","2026-05-14","https://example.com/your-review-link-1","Reviewer role and company size","4"
+"SAMPLE ROW - format only, not a real review","Second review: likes","Second review: dislikes","2026-03-02","https://example.com/your-review-link-2","Reviewer role and company size","3"
